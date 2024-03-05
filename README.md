@@ -14,6 +14,9 @@ In the next version of our library, we're excited to introduce some major enhanc
 
 Stay tuned for these exciting updates! 🎉
 
+# Important Notice
+**Attention:** This library is currently archived. While it's no longer actively maintained, we believe it still has potential. If you're passionate about this library and would like to see it thrive, we encourage you to step in and contribute. Together, we can breathe new life into this project and ensure it continues to benefit the community.
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialViewPager-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1731)
 [![Android Weekly](https://img.shields.io/badge/android--weekly-151-blue.svg)](http://androidweekly.net/issues/issue-151)
 [![CircleCI](https://circleci.com/gh/florent37/MaterialViewPager.svg?style=svg)](https://circleci.com/gh/florent37/MaterialViewPager)
