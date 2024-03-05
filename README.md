@@ -1,6 +1,19 @@
 MaterialViewPager
 =======
 
+# Future Updates (Coming Soon! 🚀)
+In the next version of our library, we're excited to introduce some major enhancements:
+
+🧹 **Code Cleanup:** We're tidying up our codebase to ensure it's lean, mean, and super efficient.
+
+🔀 **Migration to AndroidX:** Say goodbye to Android Support Library! We're migrating to AndroidX for better compatibility and improved performance.
+
+⬆️ **Upgrade to Min SDK 21:** Following Google's recommendation, we're bumping up the minimum SDK version to 21. This ensures compatibility with all devices running on SDK 21 and higher.
+
+⚠️ **Deprecating Old Code:** We'll be deprecating outdated code to maintain the library's integrity and streamline future development.
+
+Stay tuned for these exciting updates! 🎉
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialViewPager-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1731)
 [![Android Weekly](https://img.shields.io/badge/android--weekly-151-blue.svg)](http://androidweekly.net/issues/issue-151)
 [![CircleCI](https://circleci.com/gh/florent37/MaterialViewPager.svg?style=svg)](https://circleci.com/gh/florent37/MaterialViewPager)
